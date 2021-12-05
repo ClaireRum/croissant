@@ -14,3 +14,15 @@ img {
   justify-content: space-evenly;
   margin-top: 30px;
 }
+
+.index {
+  background-color: darkgrey;
+}
+
+.photo {
+  background-color: khaki;
+}
+
+.contact {
+  background-color: lightcoral;
+}
